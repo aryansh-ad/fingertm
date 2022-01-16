@@ -1,0 +1,14 @@
+body
+{
+    background-color: lightblue;
+}
+img{
+    height: 40px;
+    width: 40px;
+}
+button
+{
+    border-radius: 30%;
+    height: 50px;
+    width: 50px;
+}
